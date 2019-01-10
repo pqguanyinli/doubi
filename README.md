@@ -172,7 +172,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/pqguanyinli/doubi/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
 ```
 
 ---
